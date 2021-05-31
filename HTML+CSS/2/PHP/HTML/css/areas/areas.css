@@ -1,0 +1,29 @@
+header{
+  background: darkgrey;
+  padding: 20px 0;
+}
+
+.cabecalho {
+  position: relative;
+  width: 940px; /*resoluçao de margem boa*/
+  margin: 0 auto;
+}
+
+nav {
+  position: absolute;
+  top: 50px;
+  right: 10px;
+}
+
+nav li {
+  display: inline;
+  margin: 0 0 0 15px;
+}
+
+nav a {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 22px;
+  color: #000000;
+  text-decoration: none;
+}

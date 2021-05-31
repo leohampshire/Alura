@@ -1,0 +1,12 @@
+{
+    "name": "leoha/exceptions",
+    "description": "Projeto teste",
+    "type": "library",
+    "authors": [
+        {
+            "name": "leohampshire",
+            "email": "leo.hamp@gmail.com"
+        }
+    ],
+    "require": {}
+}
